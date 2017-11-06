@@ -42,7 +42,7 @@
     }
   },
   usersLikes: {
-    duckid: true,
+    [duckId]: true,
   }
   feed: {
     isFetching,
